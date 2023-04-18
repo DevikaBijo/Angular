@@ -1,0 +1,37 @@
+user_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #5c6336;
+  }
+  
+  input {
+    text-decoration-color: aqua;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(19, 97, 107);
+  }
+  
+  button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border:none;
+    background-color: rgb(26, 13, 216);
+    color: white;
+    
+  }
+  h2 {
+    margin-bottom: 20px;
+    color: #0e0202;
+    font-weight: bold;
+    text-align: center;
+  }
+  label {
+    margin-bottom: 5px;
+    color: #05010e;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
